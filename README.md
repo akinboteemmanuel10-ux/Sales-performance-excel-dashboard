@@ -59,7 +59,7 @@ This dataset contains historical sales records including:
   creating more valuable product with an affordable price will help increase revenue from other segment.
 
 ### **Project files**
-- 
+- <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/semi-structure%20datasets.xlsx>datasets</a>
 
 
   
