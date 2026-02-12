@@ -62,7 +62,8 @@ This dataset contains historical sales records including:
 - <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/semi-structure%20datasets.xlsx>datasets</a>
 - Dashboard interaction <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/Big%20retail%20dashboard%201.png>view dashboard</a>
 - Dashboard interaction 2 <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/Big%20data%20dashboard%202.png>view dasboard</a>
-<a href = C:\Users\e.akinbote\Pictures\Screenshots> image</a>
+  "C:\Users\e.akinbote\Pictures\Screenshots\Big retail dashboard 1.png"
+  
 
 
   
