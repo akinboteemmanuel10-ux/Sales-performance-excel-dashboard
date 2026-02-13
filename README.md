@@ -45,6 +45,7 @@ This dataset contains historical sales records including:
   (created using Excel pivot charts)
 
 ### **Key Findings**
+Slicer was used to find some insight from the datasets
 - Based on the datasets it reveals that october records the highest revenue of over $10k+
 - Credit card payments method recorded the highest transaction count, contributing over 25k+
 - The sales performance dropped in the months of feburary due to the poor sales oft able in the west
@@ -61,8 +62,12 @@ This dataset contains historical sales records including:
 
 ### **Project files**
 - <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/semi-structure%20datasets.xlsx>datasets</a>
-- Dashboard interaction <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/Big%20retail%20dashboard%201.png>view dashboard</a>
-- Dashboard interaction 2 <a href = https://github.com/akinboteemmanuel10-ux/Sales-performance-excel-dashboard/blob/main/Big%20data%20dashboard%202.png>view dasboard</a>
+- Dashboard interface 1 
+-  <img width="754" height="475" alt="Big retail dashboard 1" src="https://github.com/user-attachments/assets/9a3f57d5-6e12-4fed-9b9c-b4d9149cfe50" />
+
+- Dashboard interface 2
+- <img width="956" height="365" alt="Big data dashboard 2" src="https://github.com/user-attachments/assets/e8bb0fe1-9c5a-4360-a0d8-fc7d8b4345bd" />
+
   
   
 
