@@ -34,6 +34,7 @@ This dataset contains historical sales records including:
 - handled missing values
 - created calculated fields for analysis
 - Standardized data format
+- Transforming into table for filter
 
 ### **Visualizations**
 - KPI for revenue, profit, quantity and discount
